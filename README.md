@@ -1,12 +1,12 @@
-# 👋 Hi there! — Devwon-1999
+# 👋 Hi there!
 
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&animation=fadeIn&text=DEVWON-1999&fontAlignY=40&height=200&fontSize=60&color=gradient&desc=Security%20·%20Development%20·%20PenTest&descAlignY=15&descAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&animation=fadeIn&text=DEVWON-1999&fontAlignY=40&height=200&fontSize=65&color=gradient&desc=Security%20·%20Development%20·%20PenTest&descAlignY=15&descAlign=20)
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Language  
+### 💻 Languages  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-## ⚙️ Development Tools / IDE  
+### ⚙️ Development Tools / IDEs  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧰 Frameworks & Libraries  
+### 🧰 Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-## 🗄️ Database  
+### 🗄️ Database  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-## ☁️ DevOps / Cloud  
+### ☁️ DevOps / Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔐 Security & Reverse Engineering  
+### 🔐 Security & Reverse Engineering  
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-000000?style=flat-square&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-7A2A2A?style=flat-square&logoColor=white)
@@ -71,7 +71,7 @@
 
 ---
 
-## 🧩 Collaboration / Version Control  
+### 🧩 Collaboration / Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
@@ -79,30 +79,22 @@
 
 ---
 
-# 🌱 About Me / 자기소개
-
-## 🇰🇷 한국어
-- 🔭 현재 **모의해킹(Penetration Testing)** 및 정보보안 전반을 중심으로 공부하고 있습니다.  
-- 💬 **웹 취약점 분석(SQL Injection, XSS, CSRF 등)** 및 **모바일 보안(NDK/JNI/루팅 탐지)** 분야에 관심이 많습니다.  
-- 🌱 **Burp Suite, Frida, IDA Pro, Ghidra** 등을 사용하여 애플리케이션 취약점 분석과 방어 방안을 연구합니다.  
-- 🧩 실무형 시나리오 기반 **모의해킹 실습 및 취약점 진단**을 꾸준히 진행하고 있습니다.
-
-## 🇺🇸 English
-- 🔭 I’m currently studying **Penetration Testing** and information security.  
-- 💬 I have strong interest in **Web Vulnerability Analysis (SQL Injection, XSS, CSRF)** and **Mobile Security (NDK/JNI/Root Detection)**.  
+## 🌱 About Me
+- 🔭 I’m currently studying **Penetration Testing**, **Cybersecurity**, and **Software Development**.  
+- 💬 I’m highly interested in **Web Vulnerability Analysis (SQL Injection, XSS, CSRF)** and **Mobile Security (NDK/JNI/Root Detection)**.  
 - 🌱 I use tools like **Burp Suite, Frida, IDA Pro, and Ghidra** to analyze application vulnerabilities and research defense strategies.  
-- 🧩 I regularly perform **hands-on, scenario-based penetration tests and vulnerability assessments**.
+- 🧩 I enjoy building secure systems using **Docker**, **Spring Boot**, and **AWS**, and continuously explore new technologies in **DevOps and MLOps**.  
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devwon-1999&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Devwon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Devwon-1999&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-# 🧠 Quote
-> “보안은 기능이 아니라 사고방식이다.” 🛡️  
-> — 익명의 엔지니어
+## 🧠 Quote
+> “Security is not a feature — it’s a mindset.” 🛡️  
+> — Anonymous Engineer  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient)
